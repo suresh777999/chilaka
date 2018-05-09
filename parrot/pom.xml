@@ -4,7 +4,7 @@
 
     <groupId>com.st.birds</groupId>
     <artifactId>parrot</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>Spring Boot GAE Blank Project (from https://github.com/making/spring-boot-gae-blank)</name>
