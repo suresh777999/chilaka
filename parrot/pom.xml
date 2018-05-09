@@ -130,4 +130,11 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
+    <distributionManagement>
+  <repository>
+    <id>satya</id>
+   <name>satya</name>
+    <url>http://ec2-18-188-80-255.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/satya</url>
+  </repository>
+</distributionManagement>
 </project>
